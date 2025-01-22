@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=79FF9F&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6959CD&height=120&section=header"/>
 
 <br/>
 
@@ -36,6 +36,6 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 
   ## Projetos em Destaque:
-- [ChangeBee](https://github.com/paulobezz/ChangeBee): Transportadora
+[ChangeBee](https://github.com/paulobezz/ChangeBee): Transportadora
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=79FF9F&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6959CD&height=120&section=footer"/>
