@@ -37,10 +37,7 @@
 
   ## Projetos em Destaque:
   <div>
-    [ChangeBee](https://github.com/paulobezz/ChangeBee) - Transportadora de mudança brasileira
-    
-    <br/>
-    
+    [ChangeBee](https://github.com/paulobezz/ChangeBee) - Transportadora de mudança brasileira <br/>
     [Pepeers](https://github.com/PauloBezz/Pepeers) - Loja de roupas feminina
   </div>
 
