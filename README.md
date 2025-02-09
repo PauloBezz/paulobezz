@@ -36,9 +36,9 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 
   ## Projetos em Destaque:
-[ChangeBee](https://github.com/paulobezz/ChangeBee): Transportadora de mudança brasileira
+#[ChangeBee] (https://github.com/paulobezz/ChangeBee) - Transportadora de mudança brasileira
 <br/>
-[Pepeers](https://github.com/PauloBezz/Pepeers): Loja de roupas feminina
+#[Pepeers] (https://github.com/PauloBezz/Pepeers) - Loja de roupas feminina
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6959CD&height=120&section=footer"/>
