@@ -39,6 +39,4 @@
 
   [ChangeBee](https://github.com/paulobezz/ChangeBee) - Transportadora de mudança brasileira <br/>
   [Pepeers](https://github.com/PauloBezz/Pepeers) - Loja de roupas feminina
-
-![Visitantes](https://komarev.com/ghpvc/?username=paulohenrique&color=blue)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6959CD&height=120&section=footer"/>
