@@ -7,15 +7,15 @@
 <br/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=paulobezz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=fff&bg_color=6959CD" alt="github stats" /> 
-  <img width="42%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulobezz&layout=compact&hide_border=true&title_color=00bfbf&text_color=fff&bg_color=6959CD" />
+  <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=paulobezz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=fff&bg_color=6959CD" alt="github stats" /> 
+  <img width="42%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulobezz&layout=compact&hide_border=true&title_color=00bfbf&text_color=fff&bg_color=6959CD" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulobezz&&theme=tokyonight" alt="paulohenrique" />
 </div>
 
 <br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/paulo-henrique-bezerra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 </p>
 
