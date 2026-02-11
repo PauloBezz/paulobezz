@@ -7,10 +7,17 @@
 <br/>
 
 <div align="center">  
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=paulobezz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=fff&bg_color=6959CD" alt="github stats" /> 
-  <img width="42%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulobezz&layout=donut&langs_count=7&hide_border=true&title_color=00bfbf&text_color=fff&bg_color=6959CD" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulobezz&&theme=tokyonight" alt="paulohenrique" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=paulobezz&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=ffffff&bg_color=6959CD&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulobezz&layout=compact&langs_count=7&hide_border=true&title_color=00bfbf&text_color=ffffff&bg_color=6959CD" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img width="55%"
+       src="https://streak-stats.demolab.com?user=paulobezz&hide_border=true&background=6959CD&ring=00bfbf&fire=00bfbf&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
+</div>
+
 
 <br/>
 
