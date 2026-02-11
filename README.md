@@ -1,30 +1,24 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6959CD&height=120&section=header"/>
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Paulo+Bezerra;I'm+25+years+old;I´m+from+Brazil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
 <br/>
 
 <table align="center">
-<tr>
-<td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulobezz&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=ffffff&bg_color=6959CD&include_all_commits=true"/>
-</td>
-<td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulobezz&layout=compact&langs_count=7&hide_border=true&title_color=00bfbf&text_color=ffffff&bg_color=6959CD"/>
-</td>
-</tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulobezz&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=ffffff&bg_color=6959CD&include_all_commits=true"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulobezz&layout=compact&langs_count=7&hide_border=true&title_color=00bfbf&text_color=ffffff&bg_color=6959CD"/>
+    </td>
+  </tr>
 </table>
-
 <br/>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=paulobezz&hide_border=true&background=6959CD&ring=00bfbf&fire=00bfbf&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"/>
+ <img src="https://streak-stats.demolab.com?user=paulobezz&hide_border=true&background=6959CD&ring=00bfbf&fire=00bfbf&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"/>
 </p>
->
-
-
 
 <br/>
 
@@ -32,7 +26,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/paulo-henrique-bezerra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 </p>
-
 <br/>
 
 <h3 align="center">Languages and Tools:</h3>
