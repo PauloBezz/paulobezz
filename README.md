@@ -6,18 +6,23 @@
 
 <br/>
 
-<div align="center">  
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulobezz&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=ffffff&bg_color=6959CD&include_all_commits=true"/>
+</td>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulobezz&layout=compact&langs_count=7&hide_border=true&title_color=00bfbf&text_color=ffffff&bg_color=6959CD"/>
+</td>
+</tr>
+</table>
 
-  <img width="33%"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulobezz&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=ffffff&bg_color=6959CD&include_all_commits=true" />
+<br/>
 
-  <img width="33%"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulobezz&layout=compact&langs_count=7&hide_border=true&title_color=00bfbf&text_color=ffffff&bg_color=6959CD" />
-
-  <img width="33%"
-       src="https://streak-stats.demolab.com?user=paulobezz&hide_border=true&background=6959CD&ring=00bfbf&fire=00bfbf&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=paulobezz&hide_border=true&background=6959CD&ring=00bfbf&fire=00bfbf&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"/>
+</p>
+>
 
 
 
